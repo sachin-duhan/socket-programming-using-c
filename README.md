@@ -52,9 +52,6 @@ int connect(int sockfd, const struct sockaddr *addr,
 - The connect() system call connects the socket referred to by the file descriptor sockfd to the address specified by addr. Server’s address and port is specified in addr.
 
 
-the above content is taken from - [geeksforgeesks!](https://www.geeksforgeeks.org/socket-programming-cc/).
-
-
 ~~~
 AUTHOR - SACHIN DUHAN
 INSITITUE - DELHI TECHNOLOGICAL UNIVERISITY
